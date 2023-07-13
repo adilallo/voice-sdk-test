@@ -177,3 +177,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 154522.508912 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(d81e21dc10dbb454fb50d7e1a83f119a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(d81e21dc10dbb454fb50d7e1a83f119a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6680c4263cbc9b9696a2b5de34dcc87a') in 0.407521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.115228 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(d81e21dc10dbb454fb50d7e1a83f119a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(d81e21dc10dbb454fb50d7e1a83f119a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903140b95c0ad3d73e5a8a30a1488410') in 0.002184 seconds 
