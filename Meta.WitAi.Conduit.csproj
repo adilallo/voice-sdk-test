@@ -59,26 +59,26 @@
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/IManifestMethod.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/WitKeyword.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ManifestEntity.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ParameterProvider.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ConduitParameterValue.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/AssemblyInfo.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitValueAttribute.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitEntityAttribute.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitActionAttribute.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/IInstanceResolver.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ManifestAction.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ManifestErrorHandler.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/IConduitDispatcher.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ConduitUtilities.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/HandleEntityResolutionFailureAttribute.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/IParameterProvider.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/IManifestLoader.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ConduitDispatcherFactory.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitParameterAttribute.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ParameterProvider.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/AssemblyInfo.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitValueAttribute.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitActionAttribute.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/IInstanceResolver.cs" />
+    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ConduitUtilities.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/InvocationContext.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ConduitDispatcher.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ManifestParameter.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitAssemblyAttribute.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/IManifestLoader.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/ConduitDispatcherFactory.cs" />
-    <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/ConduitParameterAttribute.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/ManifestLoader.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/Manifest.cs" />
   </ItemGroup>
@@ -341,6 +341,15 @@
     <Reference Include="UnityEditor.Android.Extensions">
       <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+    </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportGeneratorMerged">
+      <HintPath>Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -353,20 +362,11 @@
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
-    </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="ReportGeneratorMerged">
-      <HintPath>Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
