@@ -244,8 +244,8 @@
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/HandGrab/HandGrabResult.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Core/MultiAction.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Input/Hands/DataModifiers/LastKnownGoodHand.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Unity/UnityInfo.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/Snap/ListSnapPoseDelegate.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Unity/UnityInfo.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Core/IInteractable.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Unity/Input/InputMouseButton.cs" />
     <Compile Include="Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/UseGrab/IHandGrabUseDelegate.cs" />
