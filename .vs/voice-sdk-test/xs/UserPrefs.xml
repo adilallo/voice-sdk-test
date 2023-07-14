@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AB519E54-9B27-6693-0C17-1466EE3E23DB}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3bba0db2-f930-4630-a011-9597ad14ba4a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TimerDisplay.cs" Line="2" Column="19" />
+      <File FileName="Assets/Scripts/TimerController.cs" Line="2" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="voice-sdk-test">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
