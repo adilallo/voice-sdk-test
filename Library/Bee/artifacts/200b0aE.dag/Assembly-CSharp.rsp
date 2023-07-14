@@ -533,6 +533,7 @@
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
 "Assets/Scripts/TimerController.cs"
 "Assets/Scripts/TimerDisplay.cs"
+"Assets/Scripts/WitActivation.cs"
 -langversion:9.0
 
 /deterministic

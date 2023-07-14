@@ -12,152 +12,79 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
   m_Name: Chess Demo with Conduit- WitConfiguration
   m_EditorClassIdentifier: 
-  _clientAccessToken: 7WV6EGGJ46DC3CT2S32IOG3GH7YHP5BN
+  _clientAccessToken: GV4WSCFK2RIVVTWSPWQDYZGJILZROSTO
   _appInfo:
-    name: test
-    id: 796555688870892
+    name: chessboard
+    id: 463950519194166
     lang: en
     isPrivate: 0
-    createdAt: 2023-07-13T12:37:50-0700
+    createdAt: 2023-03-06T09:54:33-0800
     trainingStatus: 1
-    lastTrainDuration: 49
-    lastTrainedAt: 2023-07-13T12:45:32-0700
-    nextTrainAt: 2023-07-13T12:44:43-0700
+    lastTrainDuration: 26
+    lastTrainedAt: 2023-03-06T10:31:11-0800
+    nextTrainAt: 2023-03-06T10:30:45-0800
     intents:
-    - id: 1574377293089588
-      name: move_shape
+    - id: 148519308100093
+      name: MoveChessPiece
       entities:
-      - name: direction:direction
-        id: 232290359731411
-      - name: shape:shape
-        id: 991149128988240
-    - id: 291776966718219
-      name: set_color
-      entities:
-      - name: color:color
-        id: 992810101738603
-    - id: 233248582952379
-      name: set_rotation
-      entities:
-      - name: rotation:rotation
-        id: 831350941634564
+      - name: letter:letter
+        id: 2773029599516990
+      - name: number:number
+        id: 892768801945847
     entities:
-    - name: color
-      id: 6497777730279630
+    - name: letter
+      id: 974441083986802
       lookups:
       - free-text
       - keywords
       roles:
-      - name: color
-        id: 992810101738603
+      - name: letter
+        id: 2773029599516990
       keywords:
-      - keyword: blue
+      - keyword: A
         synonyms:
-        - blue
-      - keyword: red
+        - a
+      - keyword: B
         synonyms:
-        - red
-      - keyword: yellow
-        synonyms:
-        - yellow
-    - name: direction
-      id: 1636330903519156
+        - b
+    - name: number
+      id: 588032953204094
       lookups:
       - free-text
       - keywords
       roles:
-      - name: direction
-        id: 232290359731411
+      - name: number
+        id: 892768801945847
       keywords:
-      - keyword: backward
+      - keyword: Eight
         synonyms:
-        - backward
-      - keyword: forward
+        - 8
+        - eight
+      - keyword: One
         synonyms:
-        - forward
-      - keyword: left
+        - 1
+        - One
+      - keyword: Three
         synonyms:
-        - left
-      - keyword: right
+        - 3
+        - Three
+        - three
+      - keyword: Two
         synonyms:
-        - right
-    - name: rotation
-      id: 236626065900206
-      lookups:
-      - free-text
-      - keywords
-      roles:
-      - name: rotation
-        id: 831350941634564
-      keywords:
-      - keyword: 20
+        - 2
+        - Two
+      - keyword: Zero
         synonyms:
-        - 20
-    - name: shape
-      id: 1724246481368337
-      lookups:
-      - free-text
-      - keywords
-      roles:
-      - name: shape
-        id: 991149128988240
-      keywords:
-      - keyword: cube
-        synonyms:
-        - cube
+        - 4
+        - four
     traits: []
     voices:
-    - name: Cael
-      locale: en_US
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Cam
-      locale: en_US
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Carl
-      locale: en_US
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
     - name: Charlie
       locale: en_US
       gender: male
       styles:
       - default
       - soft
-      - fast
-      - projected
-    - name: Cody
-      locale: en_US
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Connor
-      locale: en_US
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
       - fast
       - projected
     - name: Cooper
@@ -174,34 +101,7 @@ MonoBehaviour:
       gender: male
       styles:
       - default
-    - name: Railey
-      locale: en_US
-      gender: female
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
     - name: Rebecca
-      locale: en_US
-      gender: female
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Remi
-      locale: en_US
-      gender: female
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Rubie
       locale: en_US
       gender: female
       styles:
@@ -213,24 +113,6 @@ MonoBehaviour:
     - name: Vampire
       locale: en_US
       gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Colin
-      locale: en_CA
-      gender: male
-      styles:
-      - default
-      - soft
-      - formal
-      - fast
-      - projected
-    - name: Rosie
-      locale: en_CA
-      gender: female
       styles:
       - default
       - soft

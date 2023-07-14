@@ -239,7 +239,7 @@ MonoBehaviour:
       - projected
     composer:
       canvases: []
-  _configurationId: 
+  _configurationId: ee3de6d7-b531-41dc-8c81-9d8ba3046654
   timeoutMS: 10000
   endpointConfiguration:
     _uriScheme: 
@@ -254,7 +254,7 @@ MonoBehaviour:
     _converse: 
   isDemoOnly: 0
   useConduit: 1
-  _manifestLocalPath: 
+  _manifestLocalPath: ConduitManifest-4b2db2fb-7736-48f8-8fb6-57aa083f8cce.json
   excludedAssemblies:
   - Oculus.Voice.Demo, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   - Meta.WitAi.Samples, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
