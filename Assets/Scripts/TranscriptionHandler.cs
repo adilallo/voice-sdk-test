@@ -33,6 +33,20 @@ public class TranscriptionHandler : MonoBehaviour
     {
         // Update the TextMeshPro text
         transcriptionText.text = transcription;
+
+        // Prepare the string for the translation service
+        string preparedTranscription = PrepareTranscription(transcription);
+
+        // Print the prepared string to the console
+        Debug.Log("Prepared full transcription: " + preparedTranscription);
+    }
+
+    private string PrepareTranscription(string transcription)
+    {
+        // TODO: Add your own logic to prepare the string for the translation service
+
+        // For now, let's just return the original string
+        return transcription;
     }
 }
 
