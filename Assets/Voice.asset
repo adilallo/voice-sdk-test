@@ -20,10 +20,17 @@ MonoBehaviour:
     isPrivate: 0
     createdAt: 2023-07-13T12:37:50-0700
     trainingStatus: 1
-    lastTrainDuration: 49
-    lastTrainedAt: 2023-07-13T12:45:32-0700
-    nextTrainAt: 2023-07-13T12:44:43-0700
+    lastTrainDuration: 44
+    lastTrainedAt: 2023-07-18T09:34:20-0700
+    nextTrainAt: 2023-07-18T09:33:36-0700
     intents:
+    - id: 291776966718219
+      name: change_color
+      entities:
+      - name: color:color
+        id: 992810101738603
+      - name: shape:shape
+        id: 991149128988240
     - id: 1574377293089588
       name: move_shape
       entities:
@@ -31,11 +38,6 @@ MonoBehaviour:
         id: 232290359731411
       - name: shape:shape
         id: 991149128988240
-    - id: 291776966718219
-      name: set_color
-      entities:
-      - name: color:color
-        id: 992810101738603
     - id: 233248582952379
       name: set_rotation
       entities:
@@ -54,6 +56,9 @@ MonoBehaviour:
       - keyword: blue
         synonyms:
         - blue
+      - keyword: green
+        synonyms:
+        - green
       - keyword: red
         synonyms:
         - red
@@ -102,9 +107,18 @@ MonoBehaviour:
       - name: shape
         id: 991149128988240
       keywords:
+      - keyword: capsule
+        synonyms:
+        - capsule
       - keyword: cube
         synonyms:
         - cube
+      - keyword: cylinder
+        synonyms:
+        - cylinder
+      - keyword: sphere
+        synonyms:
+        - sphere
     traits: []
     voices:
     - name: Cael
