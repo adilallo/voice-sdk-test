@@ -845,3 +845,532 @@ Received Import Request.
   path: Assets/Resources/ONSPSettings.asset
   artifactKey: Guid(0b23832dc978e4d94b00fd788a4bf660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/ONSPSettings.asset using Guid(0b23832dc978e4d94b00fd788a4bf660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0633635290c06a2cc80cc8779f8dc9f') in 0.490351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 284.548746 seconds.
+  path: Assets/Oculus/Voice/Scripts
+  artifactKey: Guid(7516738fcedbb58499b75fe6054d4dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts using Guid(7516738fcedbb58499b75fe6054d4dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fadec212494448b68f10a79da7b73765') in 0.000834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.553776 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime
+  artifactKey: Guid(825cea7c5dd397348af75ce59831a2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime using Guid(825cea7c5dd397348af75ce59831a2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af653daaf9c5c78031c639205a37d28') in 0.001501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047289 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/VoiceSDK.Runtime.asmdef
+  artifactKey: Guid(e545cc0678493234a9368f4e470c29e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/VoiceSDK.Runtime.asmdef using Guid(e545cc0678493234a9368f4e470c29e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53970958368a5aa0a69ad93feb160e34') in 0.026057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.183867 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Utilities
+  artifactKey: Guid(b6886b33e19626349aa58ba3ffcfe9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Utilities using Guid(b6886b33e19626349aa58ba3ffcfe9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951c367410933f3f985059e7e2240c52') in 0.001259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.373908 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Interfaces
+  artifactKey: Guid(44a9302c8ca946f3b19b222b1481aa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Interfaces using Guid(44a9302c8ca946f3b19b222b1481aa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58526644f2281ea62388008439e19d8') in 0.001472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.474498 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Service
+  artifactKey: Guid(b8e4f817930837444a893fce723ba3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Service using Guid(b8e4f817930837444a893fce723ba3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bc00397e56b8071b27880be6a47ae3') in 0.001681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.442810 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Service/AppBuiltIns.cs
+  artifactKey: Guid(6483d6b21054c4e07acfd6c1c43c4e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Service/AppBuiltIns.cs using Guid(6483d6b21054c4e07acfd6c1c43c4e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01dee3346d0075dfb99d3c674cb5612f') in 0.087862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.687845 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Service/AppVoiceExperience.cs
+  artifactKey: Guid(28779cfed47441a42a6cd4fb49c8dc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Service/AppVoiceExperience.cs using Guid(28779cfed47441a42a6cd4fb49c8dc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30be1d13d5bf2daa0fff49f627d2a8f7') in 0.000928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.480988 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Service/ObjectVoiceExperience.cs
+  artifactKey: Guid(fccf0c254a8b42d1bc0cd66655cda486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Service/ObjectVoiceExperience.cs using Guid(fccf0c254a8b42d1bc0cd66655cda486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80726c6cc50beae61ae0cb3634e6e9e') in 0.000999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.550186 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Bindings
+  artifactKey: Guid(bbc4c49e0d6b4e739b6daa5d08e00632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Bindings using Guid(bbc4c49e0d6b4e739b6daa5d08e00632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2767d5d272cb101291d117e5144600ca') in 0.001239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.732551 seconds.
+  path: Assets/Oculus/Voice/Scripts/Runtime/Bindings/Android
+  artifactKey: Guid(10a5b9b665ad462cb8d1e8d6cde9bc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Scripts/Runtime/Bindings/Android using Guid(10a5b9b665ad462cb8d1e8d6cde9bc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5d8fca7d09a9b750187d2c9d1fdad5') in 0.001517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.512349 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs
+  artifactKey: Guid(c2286babc47d49e68e8ebb7c9ef3bae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs using Guid(c2286babc47d49e68e8ebb7c9ef3bae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587480dc9bc2aabbedde34d677428826') in 0.001231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.701963 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts
+  artifactKey: Guid(0c637df927b25624d9774400db7b0d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts using Guid(0c637df927b25624d9774400db7b0d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd069c132191e39f62c5d5e693c90b75e') in 0.001283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.312680 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime
+  artifactKey: Guid(735aff1d159a06444a21509d7f24921b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime using Guid(735aff1d159a06444a21509d7f24921b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c32d806fe73e1cf4ee1e6663a886dc0') in 0.001860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.053321 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WrapHttpWebRequest.cs
+  artifactKey: Guid(3e180ecb977ce284cb14fc2af3f018f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WrapHttpWebRequest.cs using Guid(3e180ecb977ce284cb14fc2af3f018f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362a6ec055e320fea21fe452a82cb6f0') in 0.001076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.709620 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitService.cs
+  artifactKey: Guid(f8aee093cd100a249a9a5e79c25157f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitService.cs using Guid(f8aee093cd100a249a9a5e79c25157f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32ac21eb9b2526e7ae9875bad3b1920') in 0.001279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.076045 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitResultUtilities.cs
+  artifactKey: Guid(cc1d16cc4e1d4f82804b1476cd2194bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitResultUtilities.cs using Guid(cc1d16cc4e1d4f82804b1476cd2194bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5adcd409b48c9503ddad4b306784df') in 0.001366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.536942 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitRequestFactory.cs
+  artifactKey: Guid(7a8e8cc89a798e94d9d5d98cd0ed924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/WitRequestFactory.cs using Guid(7a8e8cc89a798e94d9d5d98cd0ed924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc915e8cc265135f0829208a7856c50') in 0.000622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.389494 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager
+  artifactKey: Guid(10dda6683b2bb524e983c24ca733a79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager using Guid(10dda6683b2bb524e983c24ca733a79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e649d9eaaa9141046dac23b757b58d59') in 0.001898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.536665 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager/MatchIntent.cs
+  artifactKey: Guid(f071cbc42a68405a81505dcf44f5f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager/MatchIntent.cs using Guid(f071cbc42a68405a81505dcf44f5f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf8dd75463045063232ce4161626ddb') in 0.000952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.827151 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager/MatchIntentRegistry.cs
+  artifactKey: Guid(13db0e8ded83f5241a7cdd13a99dab62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/ResponseManager/MatchIntentRegistry.cs using Guid(13db0e8ded83f5241a7cdd13a99dab62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f768fa3c2a7008859fa7e2f96227d0') in 0.001031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 763.913695 seconds.
+  path: Assets/Oculus/Voice/Features/Hub/Scripts/Editor/Meta.Voice.Hub.Editor.asmdef
+  artifactKey: Guid(a4f6d7d3afe393a4c8034af2ef0f36a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Features/Hub/Scripts/Editor/Meta.Voice.Hub.Editor.asmdef using Guid(a4f6d7d3afe393a4c8034af2ef0f36a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd827b06b8c1221df32a3c26e91aff64') in 0.000827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/Common/Meta.VoiceSDK.Mic.Common.asmdef
+  artifactKey: Guid(92a2c14febc027049bf15fe8da646123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/Common/Meta.VoiceSDK.Mic.Common.asmdef using Guid(92a2c14febc027049bf15fe8da646123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70427d48f513e553304ff7f2aa74f96d') in 0.000754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Oculus/Voice/Features/VoiceHub/Scripts/Editor/Meta.Voice.VSDKHub.Editor.asmdef
+  artifactKey: Guid(fb19304c87f76694ca2d792da1915efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Features/VoiceHub/Scripts/Editor/Meta.Voice.VSDKHub.Editor.asmdef using Guid(fb19304c87f76694ca2d792da1915efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ffcbf800b9893e4b5b526dd2298ab0') in 0.000756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/WebGL/Meta.VoiceSDK.Mic.WebGL.asmdef
+  artifactKey: Guid(aa2e2e88060c9fd4a81dab2812b7c8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/WebGL/Meta.VoiceSDK.Mic.WebGL.asmdef using Guid(aa2e2e88060c9fd4a81dab2812b7c8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad82eb9b3d83ba29371af0fce4d5019') in 0.000745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/Other/Meta.VoiceSDK.Mic.Other.asmdef
+  artifactKey: Guid(3e75c68ea2ce130409f7b96ae2110237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/Other/Meta.VoiceSDK.Mic.Other.asmdef using Guid(3e75c68ea2ce130409f7b96ae2110237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84d9cd5cd4929c7ae725db0cffb4472') in 0.000554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.533778 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Editor/Windows/PropertyDrawers/WitVoiceInfoPropertyDrawer.cs
+  artifactKey: Guid(0a7a004ba58791f498c8b7033b511e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Editor/Windows/PropertyDrawers/WitVoiceInfoPropertyDrawer.cs using Guid(0a7a004ba58791f498c8b7033b511e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82104f946e86beefd78938add8a99ae') in 0.001006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.616026 seconds.
+  path: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Wit/Runtime/Data/Info/WitVoiceInfo.cs
+  artifactKey: Guid(5ba01b4d0d1b69f4ea5a0c139272031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/Wit.ai/Lib/Wit/Runtime/Data/Info/WitVoiceInfo.cs using Guid(5ba01b4d0d1b69f4ea5a0c139272031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b9d34b0f3e1f9fe5725dd599133e33') in 0.000880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2157.388636 seconds.
+  path: Assets/Scripts/VoiceTranscription.cs
+  artifactKey: Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/VoiceTranscription.cs using Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a49d3839c7f8bdbdbbc6f4000f757d') in 0.000800 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001344 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16bd2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Domain Reload Profiling:
+	ReloadAssembly (758ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (606ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (215ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (281ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (42ms)
+				ProcessInitializeOnLoadAttributes (219ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 3.28 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.36 ms.
+Unloading 4731 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (186.5 KB). Loaded Objects now: 5319.
+Memory consumption went from 176.0 MB to 175.8 MB.
+Total: 2.817166 ms (FindLiveObjects: 0.148500 ms CreateObjectMapping: 0.063167 ms MarkObjects: 2.499958 ms  DeleteObjects: 0.105000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 269.233036 seconds.
+  path: Assets/Scripts/VoiceTranscription.cs
+  artifactKey: Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/VoiceTranscription.cs using Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbe57de1e620e6c2bfac8ff94f3f0be') in 0.006086 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001576 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16bd2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Domain Reload Profiling:
+	ReloadAssembly (783ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (623ms)
+			LoadAssemblies (32ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (289ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (44ms)
+				ProcessInitializeOnLoadAttributes (224ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+Unloading 4731 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (186.5 KB). Loaded Objects now: 5323.
+Memory consumption went from 176.0 MB to 175.8 MB.
+Total: 2.773084 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.062542 ms MarkObjects: 2.464709 ms  DeleteObjects: 0.112334 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 688.706722 seconds.
+  path: Assets/Scripts/VoiceTranscription.cs
+  artifactKey: Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/VoiceTranscription.cs using Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21512bd071d5ef03d559e6c10a5342b') in 0.005903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.520278 seconds.
+  path: Assets/Scripts/TranscriptionHandler.cs
+  artifactKey: Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TranscriptionHandler.cs using Guid(c77b60117bd2f4a59a1f40b61ef48f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d91b50795458c2e4e10e21f12bce6df') in 0.000629 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001455 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16bd2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.41 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Domain Reload Profiling:
+	ReloadAssembly (758ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (608ms)
+			LoadAssemblies (31ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (292ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (228ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.81 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 4731 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (186.6 KB). Loaded Objects now: 5327.
+Memory consumption went from 176.0 MB to 175.8 MB.
+Total: 2.728500 ms (FindLiveObjects: 0.152084 ms CreateObjectMapping: 0.058459 ms MarkObjects: 2.395375 ms  DeleteObjects: 0.121917 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001453 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16bd2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Domain Reload Profiling:
+	ReloadAssembly (846ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (688ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.94 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+Unloading 4731 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (186.5 KB). Loaded Objects now: 5331.
+Memory consumption went from 176.0 MB to 175.8 MB.
+Total: 3.066916 ms (FindLiveObjects: 0.157416 ms CreateObjectMapping: 0.064542 ms MarkObjects: 2.722292 ms  DeleteObjects: 0.122000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 286.405457 seconds.
+  path: Assets/Oculus
+  artifactKey: Guid(de05518d46bbb484a845d6e9f5abd68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus using Guid(de05518d46bbb484a845d6e9f5abd68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e5d50746368cf219113fba4ca0caf4') in 0.007516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.580689 seconds.
+  path: Assets/ColorChanger.cs
+  artifactKey: Guid(a3870975543004016ba5f25b8f271db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ColorChanger.cs using Guid(a3870975543004016ba5f25b8f271db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d9e8ee291044e7c05f5bd01a2849fa') in 0.000945 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16bd2f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/voice-sdk-test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Domain Reload Profiling:
+	ReloadAssembly (814ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (658ms)
+			LoadAssemblies (32ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (314ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (244ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.80 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+Unloading 4731 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (186.7 KB). Loaded Objects now: 5335.
+Memory consumption went from 175.9 MB to 175.7 MB.
+Total: 3.094875 ms (FindLiveObjects: 0.179417 ms CreateObjectMapping: 0.062458 ms MarkObjects: 2.727834 ms  DeleteObjects: 0.124500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
