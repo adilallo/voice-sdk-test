@@ -43,7 +43,7 @@ public class TranscriptionHandler : MonoBehaviour
 
     private string PrepareTranscription(string transcription)
     {
-        // TODO: Add your own logic to prepare the string for the translation service
+        // TODO: Add logic to prepare the string for the translation service
 
         // For now, let's just return the original string
         return transcription;
