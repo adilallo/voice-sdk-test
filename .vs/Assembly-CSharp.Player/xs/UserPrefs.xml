@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8CFA33D6-A6A1-E032-9C84-FEFF4D77811C}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp.Player" expanded="True" selected="True" />
+          <Node name="AssistantCoreSDKEditor" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp.Player PreferredExecutionTarget="a0db48be-ffcb-4fff-ba99-910202fba4fe" />
+</Properties>

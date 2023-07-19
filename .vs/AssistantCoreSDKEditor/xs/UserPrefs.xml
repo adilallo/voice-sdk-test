@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CE9FF30D-4EE7-FDC7-9360-D91DBFC702A8}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssistantCoreSDKEditor" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AssistantCoreSDKEditor PreferredExecutionTarget="a0db48be-ffcb-4fff-ba99-910202fba4fe" />
+</Properties>
