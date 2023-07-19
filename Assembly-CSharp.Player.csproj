@@ -56,171 +56,20 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandlerHMD.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerParabolic.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Firebase/StartCrashlytics.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/HandsActiveChecker.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/BouncingBallMgr.cs" />
     <Compile Include="Assets/Scripts/TimerDisplay.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughProjectionSurface.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/CowController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/HandMeshUI.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/VolumeAndPlaneSwitcher.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/CustomHands/Scripts/HandPose.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/InteractableTool.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/EnableUnpremultipliedAlpha.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Plugins/Android/NativeVideoPlayer.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimVisualLaser.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiAxis1dInspector.cs" />
     <Compile Include="Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Scripts/MoviePlayerSample.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportDestination.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Haptics/LocalizedHaptics.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainButtonVisualController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiBoolInspector.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/GrabObject.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/SimpleCapsuleWithStickMovement.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/AugmentedObject.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableRegistry.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/PassthroughPlayInEditor.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/HandedInputSelector.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/Utils/Pose.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerHMD.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandler.cs" />
     <Compile Include="Assets/Scripts/TimerController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabManager.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/AnchorSession.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/CharacterCameraConstraint.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/SimpleResizer/SimpleResizable.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/SpatialAnchorSession.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionWarp.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Scripts/VectorUtil.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/PauseOnInputLoss.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableToolsCreator.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/DebugUIBuilder.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Firebase/SampleUI.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportSupport.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ButtonController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/CustomHands/Scripts/Hand.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Locomotion/Scripts/LocomotionSampleSupport.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/Flashlight.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/AnchorSpawner.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Locomotion/Scripts/CharacterCapsule.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/LocomotionController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerPhysical.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainTrack.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/SpatialAnchorLoader.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Interactable.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/TouchControllers/TouchController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCar.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughSurface.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportPoint.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/FingerTipPokeTool.cs" />
     <Compile Include="Assets/Scripts/ColorChanger.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiDeviceInspector.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerNavMesh.cs" />
     <Compile Include="Assets/Scripts/TranscriptionHandler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiAxis2dInspector.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/ControllerBoxController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/AppDeeplink/UI/CustomDebugUI.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/Spawnable.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Scripts/ButtonDownListener.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerLaser.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughBrush.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ColliderZone.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Scripts/MoviePlayerSampleControls.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/WindmillController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/SPPquad.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransition.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/SelectionCylinder.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/PanelHMDFollower.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/AppDeeplink/AppDeeplinkUI.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/DebugUI/DebugUISample.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/MyCustomSceneModelLoader.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/BrushController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/SceneSettings.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ButtonTriggerZone.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Firebase/AnalyticsUI.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/BoneCapsuleTriggerLogic.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/ColorGrabbable.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Video/Scripts/MediaPlayerImage.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Scripts/DistanceGrabberSample.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiSceneMenu.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/HandsManager.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/StylusTip/StylusTip.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/SceneSampler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerNode.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabbableCrosshair.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainLocomotive.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandlerThumbstick.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCrossingController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/StartScene/Scripts/StartMenu.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/HandMeshMask.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/FurnitureSpawner.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionBlink.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/PinchStateModule.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/WindmillBladesController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerTouch.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/RequestCaptureFlow.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/BouncingBallLogic.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionInstant.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/Anchor.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Scripts/SimpleResizer/SimpleResizer.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/InteractableToolView.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableToolsInputRouter.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/ObjectManipulator.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/OverlayPassthrough.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/LocomotionTeleport.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas/Scripts/OVROverlayCanvas.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler360.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/FlashlightController.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/AnchorHelpers.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayToolView.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCarBase.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayTool.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/FingerTipPokeToolView.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/OVROverlay/Scripts/OVROverlaySample.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughStyler.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/AnchorUIManager.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/SelectivePassthroughExperience.cs" />
     <Compile Include="Assets/Scripts/WitActivation.cs" />
-    <Compile Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrackSegment.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/XingLightShader.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/Hidden.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/Wall.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/ButtonGlow.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/SelectivePassthrough.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/SelectivePassthroughSoft.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/OverwriteAlpha.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/CrosshairZCheat.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/GradientSkybox.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/PassthroughLine.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/BackgroundColor.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/FatFingers.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/InvisibleOccluder.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/OculusSampleTrainPropsShader.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/ToyCubeWithOutline.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/Locomotion/Materials/ColumnGlow.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/Video/Shaders/Multiview Stereo.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/DebugUI/Fonts/Montserrat/OFL.txt" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas/Shaders/UI Default Correct.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/CustomHands/Shaders/Hands_01.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
@@ -229,29 +78,13 @@
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
-    <None Include="Assets/Oculus/SampleFramework/Core/HandsInteraction/Shaders/OculusSampleAlphaHandOutline.shader" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/GlowEffect.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/OculusSampleTrainSmokeShader.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas/Shaders/UI Prerendered Opaque.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/Video/Plugins/Android/Audio360/NOTICE.txt" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/PassthroughShadow.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/Locomotion/Shaders/TriPlanarWorld.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/Video/Plugins/Android/Audio360/ThirdPartyNotices.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/SceneObjectPreview.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas/Shaders/UI Prerendered.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_Transparent.shader" />
     <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/StylizedOcclusions.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/CustomHands/Shaders/Hands_02.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Usage/SceneManager/Shaders/GlassMask.shader" />
-    <None Include="Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_DiffBump.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
-    <None Include="Assets/Oculus/SampleFramework/license.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -826,38 +659,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Oculus.Voice.Demo.Player.csproj">
-      <Project>{6C490BE2-C239-D795-F484-51EC28FD55B0}</Project>
-      <Name>Oculus.Voice.Demo.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.AudioManager.Player.csproj">
-      <Project>{A48DD670-C00A-8690-5DD9-AD1186017283}</Project>
-      <Name>Oculus.AudioManager.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.VoiceSDK.Mic.Common.Player.csproj">
-      <Project>{BBA73B7F-DD81-EB4C-46CA-D64FB00C7AAC}</Project>
-      <Name>Meta.VoiceSDK.Mic.Common.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Interaction.Player.csproj">
-      <Project>{062A15CA-13B8-7269-3DA8-18A402A65D7C}</Project>
-      <Name>Oculus.Interaction.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="AssistantCoreSDKRuntime.Player.csproj">
-      <Project>{EE71992D-16E6-EDF5-ECA2-76FA00F98BC8}</Project>
-      <Name>AssistantCoreSDKRuntime.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.WitAi.Conduit.Player.csproj">
-      <Project>{85EFA728-EFC0-7727-485C-1FE21BF04F21}</Project>
-      <Name>Meta.WitAi.Conduit.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Interaction.OVR.Player.csproj">
-      <Project>{24613AC2-72FE-B2EF-5910-9326AE8CD14F}</Project>
-      <Name>Oculus.Interaction.OVR.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Platform.Player.csproj">
-      <Project>{29191E5F-47FE-9A2F-C9A5-32EF01F50B1C}</Project>
-      <Name>Oculus.Platform.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.SpatialTracking.Player.csproj">
       <Project>{F02CAB51-A493-74A7-430E-6D434E79C904}</Project>
       <Name>UnityEngine.SpatialTracking.Player</Name>
@@ -866,37 +667,9 @@
       <Project>{B5EC644A-5369-84B7-D975-246EBC4E2611}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="Meta.WitAi.Player.csproj">
-      <Project>{6FE641A4-1E81-0512-F2FF-B9962DC66018}</Project>
-      <Name>Meta.WitAi.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Facebook.Wit.Dictation.Player.csproj">
-      <Project>{FDDC36DC-76ED-78A0-FA72-6869BF272953}</Project>
-      <Name>Facebook.Wit.Dictation.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Player.csproj">
-      <Project>{B7903CDD-9BD7-8F62-7153-55EFF020213D}</Project>
-      <Name>Oculus.VR.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Player.csproj">
       <Project>{1A165D20-2962-2955-B723-E0C8EA7627BC}</Project>
       <Name>Unity.XR.Management.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.WitAi.TTS.Player.csproj">
-      <Project>{FC551F26-F6E3-0EAC-874D-40BC4F04743D}</Project>
-      <Name>Meta.WitAi.TTS.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Interaction.OVR.Samples.Player.csproj">
-      <Project>{1E3E31F1-F801-141C-26E4-D82DE18D31FF}</Project>
-      <Name>Oculus.Interaction.OVR.Samples.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.VoiceSDK.Mic.Other.Player.csproj">
-      <Project>{41A23460-9490-FE46-E704-B2C76398AE96}</Project>
-      <Name>Meta.VoiceSDK.Mic.Other.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Spatializer.Player.csproj">
-      <Project>{F566A76C-02A2-4089-CD4E-A385906B1C1A}</Project>
-      <Name>Oculus.Spatializer.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
       <Project>{51F243DC-C862-0779-F6B6-FB4713EB5F10}</Project>
@@ -922,37 +695,65 @@
       <Project>{9C9627B7-BF26-2D44-AF91-65AE41922622}</Project>
       <Name>UnityEngine.XR.LegacyInputHelpers.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="VoiceSDK.Dictation.Runtime.Player.csproj">
-      <Project>{116ABF15-C548-F2C7-F496-F26E9D017C2E}</Project>
-      <Name>VoiceSDK.Dictation.Runtime.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.WitAi.TTS.Samples.Player.csproj">
-      <Project>{0BDE6180-6FC5-3BFE-F877-F273513DE354}</Project>
-      <Name>Meta.WitAi.TTS.Samples.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.LipSync.Player.csproj">
-      <Project>{7E5FA2BD-A5F3-D71A-8CDF-B659225BEEB9}</Project>
-      <Name>Oculus.LipSync.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.Oculus.Player.csproj">
       <Project>{93C026C4-2AE7-FD68-C454-E1B6899DC68C}</Project>
       <Name>Unity.XR.Oculus.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="VoiceSDK.Runtime.Player.csproj">
-      <Project>{3101147E-EEC8-9FB2-8883-93C0CA6A6849}</Project>
-      <Name>VoiceSDK.Runtime.Player</Name>
+    <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
+      <Project>{3D52016E-671F-1BD1-6F40-E4EB4C71DDEF}</Project>
+      <Name>Unity.VisualScripting.State.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Voice.Demo.Player.csproj">
+      <Project>{6C490BE2-C239-D795-F484-51EC28FD55B0}</Project>
+      <Name>Oculus.Voice.Demo.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Common.Player.csproj">
+      <Project>{BBA73B7F-DD81-EB4C-46CA-D64FB00C7AAC}</Project>
+      <Name>Meta.VoiceSDK.Mic.Common.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.Player.csproj">
+      <Project>{85EFA728-EFC0-7727-485C-1FE21BF04F21}</Project>
+      <Name>Meta.WitAi.Conduit.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Player.csproj">
+      <Project>{6FE641A4-1E81-0512-F2FF-B9962DC66018}</Project>
+      <Name>Meta.WitAi.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Player.csproj">
+      <Project>{FC551F26-F6E3-0EAC-874D-40BC4F04743D}</Project>
+      <Name>Meta.WitAi.TTS.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Runtime.Player.csproj">
+      <Project>{116ABF15-C548-F2C7-F496-F26E9D017C2E}</Project>
+      <Name>VoiceSDK.Dictation.Runtime.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.Player.csproj">
+      <Project>{FDDC36DC-76ED-78A0-FA72-6869BF272953}</Project>
+      <Name>Facebook.Wit.Dictation.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Lib.Player.csproj">
       <Project>{69DFCECD-0BDE-82DD-6E13-57E65057F946}</Project>
       <Name>Meta.WitAi.Lib.Player</Name>
     </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKRuntime.Player.csproj">
+      <Project>{EE71992D-16E6-EDF5-ECA2-76FA00F98BC8}</Project>
+      <Name>AssistantCoreSDKRuntime.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Samples.Player.csproj">
+      <Project>{0BDE6180-6FC5-3BFE-F877-F273513DE354}</Project>
+      <Name>Meta.WitAi.TTS.Samples.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Other.Player.csproj">
+      <Project>{41A23460-9490-FE46-E704-B2C76398AE96}</Project>
+      <Name>Meta.VoiceSDK.Mic.Other.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Runtime.Player.csproj">
+      <Project>{3101147E-EEC8-9FB2-8883-93C0CA6A6849}</Project>
+      <Name>VoiceSDK.Runtime.Player</Name>
+    </ProjectReference>
     <ProjectReference Include="Meta.Voice.Hub.Runtime.Player.csproj">
       <Project>{F3A6ABF0-A158-004F-ACE0-ADD82D53B8F6}</Project>
       <Name>Meta.Voice.Hub.Runtime.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
-      <Project>{3D52016E-671F-1BD1-6F40-E4EB4C71DDEF}</Project>
-      <Name>Unity.VisualScripting.State.Player</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

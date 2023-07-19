@@ -106,7 +106,6 @@ namespace Meta.WitAi.Data
             MicInput.OnSampleReady -= OnMicSampleReady;
 
             if (alwaysRecording) StopRecording(this);
-
         }
 
         // Callback for mic sample ready
