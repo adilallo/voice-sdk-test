@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{AB519E54-9B27-6693-0C17-1466EE3E23DB}|">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TranscriptionHandler.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/Voice/Scripts/Runtime/Service/AppVoiceExperience.cs">
     <Files>
-      <File FileName="Assets/Scripts/ColorChanger.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/TranscriptionHandler.cs" Line="24" Column="14" />
+      <File FileName="Assets/Scripts/ColorChanger.cs" />
+      <File FileName="Assets/Scripts/TranscriptionHandler.cs" />
+      <File FileName="Assets/Oculus/Voice/Scripts/Runtime/Service/AppVoiceExperience.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,9 +16,6 @@
           <Node name="voice-sdk-test">
             <Node name="Assets" expanded="True">
               <Node name="Oculus" expanded="True">
-                <Node name="SampleFramework" expanded="True">
-                  <Node name="Editor" expanded="True" />
-                </Node>
                 <Node name="Voice" expanded="True">
                   <Node name="Lib" expanded="True">
                     <Node name="Wit.ai" expanded="True">
@@ -31,21 +30,20 @@
                   <Node name="Resources" expanded="True" />
                   <Node name="Scripts" expanded="True">
                     <Node name="Runtime" expanded="True">
-                      <Node name="Service" expanded="True" />
+                      <Node name="Service" expanded="True">
+                        <Node name="AppVoiceExperience.cs" selected="True" />
+                      </Node>
                     </Node>
                   </Node>
                 </Node>
               </Node>
-              <Node name="Scripts" expanded="True">
-                <Node name="TranscriptionHandler.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22f4258f-1bc3-4d21-9a58-286c0c1725f7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b13fff51-0d46-4b44-96b2-68534e9c1e13" />
 </Properties>
