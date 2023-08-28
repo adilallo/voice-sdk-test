@@ -4,8 +4,8 @@ using Oculus.Voice;
 
 public class TranscriptionHandler : MonoBehaviour
 {
-    public TextMeshProUGUI transcriptionText; // Your TextMeshPro text object
-    public AppVoiceExperience voiceExperience; // Your AppVoiceExperience script
+    public TextMeshProUGUI transcriptionText; 
+    public AppVoiceExperience voiceExperience; 
 
     private void OnEnable()
     {
